@@ -1,4 +1,4 @@
-# Instagram Automation for Kortix
+# Digital Marketing Automation Agent
 
 A Python implementation of Instagram automation tools migrated from Riona's TypeScript/Puppeteer codebase for integration with the Kortix AI agent platform.
 
